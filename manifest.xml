@@ -1,0 +1,13 @@
+<manifest xmlns:ml="magicleap"
+          ml:package="com.leoz.modelsample"
+          ml:version_name="0.0.1"
+          ml:version_code="1">
+    <application  ml:visible_name="Model Sample"
+                  ml:sdk_version="1.0" >
+        <component ml:name=".universe"
+                   ml:visible_name="Model Sample"
+                   ml:binary_name="bin/ModelSample"
+                   ml:type="Universe">
+        </component>
+    </application>
+</manifest>

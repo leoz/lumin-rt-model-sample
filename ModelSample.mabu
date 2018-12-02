@@ -1,0 +1,6 @@
+KIND = program
+SRCS = \
+    src\main.cpp \
+    src\app.cpp
+
+USES = lumin_runtime
