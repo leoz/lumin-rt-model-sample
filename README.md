@@ -5,6 +5,12 @@ Lumin Runtime Model Sample
 
 ## Building this app
 
+0. Set env
+
+```shell
+source <path to your SDK dir>/MagicLeap/mlsdk/v0.18.0/envsetup.sh
+```
+
 1. Build
 
 ```shell
@@ -21,6 +27,12 @@ mldb install -u .out/ModelSample/ModelSample.mpk
 
 ```shell
 mldb launch com.leoz.modelsample
+```
+
+4. Uninstall
+
+```shell
+mldb uninstall com.leoz.modelsample
 ```
 
 ## License
