@@ -14,13 +14,13 @@ source <path to your SDK dir>/MagicLeap/mlsdk/v0.18.0/envsetup.sh
 1. Build
 
 ```shell
-mabu ModelSample.package -t device -s <your certificate file>
+mabu project.package -t device -s <your certificate file>
 ```
 
 2. Install
 
 ```shell
-mldb install -u .out/ModelSample/ModelSample.mpk
+mldb install -u .out/project/project.mpk
 ```
 
 3. Run

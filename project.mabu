@@ -1,4 +1,5 @@
 KIND = program
+OUTNAME = ModelSample
 SRCS = \
     src\main.cpp \
     src\app.cpp

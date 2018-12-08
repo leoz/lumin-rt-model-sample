@@ -8,6 +8,9 @@
                    ml:visible_name="Model Sample"
                    ml:binary_name="bin/ModelSample"
                    ml:type="Universe">
+            <icon
+                ml:model_folder=""
+                ml:portal_folder="" />
         </component>
     </application>
 </manifest>

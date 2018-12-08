@@ -1,2 +1,2 @@
-REFS = ModelSample
+REFS = project
 DATAS = res/ : res/
